@@ -7,7 +7,7 @@ In diesem System verwenden wir ein CNN, um handgeschriebene Zahlen zu erkennen. 
 Weitere Informationen darüber, wie Sie Ihr eigenes CNN aufbauen und solche Ergebnisse erzielen können, finden Sie hier:
 !https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/Projekt01%20(1).ipynb
 
-Für weitere Literatur , bitte den Bericht lesen: !https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/CNN_füu_Handwritten_Digits_Recognition.pdf
+Für weitere Literatur , bitte den Bericht lesen: ![Link](https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/CNN_füu_Handwritten_Digits_Recognition.pdf)
 
 # Ergebnisse
 ## Confusion Matrix
