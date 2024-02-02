@@ -11,7 +11,7 @@ Für weitere Literatur , bitte den Bericht lesen: !https://github.com/ange-nguet
 
 # Ergebnisse
 ## Confusion Matrix
- ![Alt]{https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/ConMatrixMNIST.png}
+ ![Alt](https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/ConMatrixMNIST.png)
 
 ## Test on real Data
- ![Alt]{https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/TestDataMNIST.png}
+ ![Alt](https://github.com/ange-nguetsop/Handwritten-Digits-Recognition/blob/main/TestDataMNIST.png)
